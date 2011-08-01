@@ -1,0 +1,16 @@
+name: OreMagnet
+main: me.insanj.OreMagnet.OreMagnet
+author: insanj
+version: 1.1
+commands:
+  magnet:
+    description: Smoothly removes all the adjacent materials/blocks from a hit block, with a ton of malleable properties.
+    permissions: |
+             -"OreMagnet.use"
+             -"OreMagnet.radius"
+             -"OreMagnet.cooldown"
+             -"OreMagnet.always"
+    usage: |
+             /<command>
+             /<command> radius [#]
+             /<command> cooldown [#]
