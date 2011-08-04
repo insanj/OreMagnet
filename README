@@ -1,6 +1,11 @@
-Please don't steal.
-Anyway, bunch of stuff coming here soon.
-Thanks.
+OreMagnet - A fully configurable instant block retrieval plugin!
+Version: 1.2_02
+CraftBukkit Version: #1000
 
--Julian (insanj) Weiss
-8/1/11
+If you find any strange bugs, or want new features LYKE NAO, please reply here as soon as possible, and I'll come to your aid whenever I possibly can!
+
+Ever get tired of mining every coal block in what seems like an entire chunk of ores? Need to gather or remove a ton of stone or clay in a flash, and don't have time for your instant break? Ever log on as an Admin on a server, but just want to use your bare hand to gather materials for friends? OreMagnet is your solution!
+
+After enabling this plugin (/magnet) you and your users can take down entire viens of ores, or groups of any material in the game. By using the built-in configuration file, you can literally make this plugin require the user to hold a feather, to take down all the wood blocks within a radius of 10, but they can't do it unless they wait a minute between each usage.
+
+http://forums.bukkit.org/threads/edit-fun-mech-oremagnet-v1-2_02-configurable-instant-material-retrieval-per-mcmmo-ico-1000.25349/
